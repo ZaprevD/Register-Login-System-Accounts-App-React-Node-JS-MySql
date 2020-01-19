@@ -1,0 +1,11 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+header{
+    text-align: center;
+    background: rgb(68, 68, 247);
+    color: wheat;
+    border-radius: 0 0  15px 15px;
+}

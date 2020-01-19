@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: tahoma;
+}
+.main-nav{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    width: 30%;
+    text-align: right;
+}
+
+.home-nav{
+    width: 70%;
+    text-align: left;
+    list-style: none;
+}
+
+.home-nav li{
+    margin-top: 10px;
+}
+
+.main-nav li , .btn{
+    padding: 5px;
+    border: none;
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+    border-radius: 15px;
+}
+
+.main-nav li:hover{
+    background: rgb(19, 137, 255);
+}
+.home-nav a:hover{
+    background: rgb(19, 137, 255);
+}
+
+.flex-box{
+    display: flex;
+    justify-content: space-between;
+}

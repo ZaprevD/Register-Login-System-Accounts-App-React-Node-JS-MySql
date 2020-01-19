@@ -1,0 +1,14 @@
+
+form{
+    margin: 20px auto;
+    width: 55%;
+    border: 3px solid black;
+    border-radius: 20px;
+    box-shadow: 10px 5px 10px rgb(36, 35, 35);
+    background: grey;
+    text-align: center;
+    padding: 15px;
+}
+
+
+

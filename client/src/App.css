@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+}
+body{
+  background: rgb(187, 185, 159);
+}
+
+.user-holder{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  flex-wrap: wrap;
+  margin: 3px 0;
+  padding: 10px;
+  margin: 20px 0;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+
+.global {
+  background: rgb(240, 221, 147);
+}
+
+.name-holder{
+  width: 25%;
+  text-align: center;
+}
+
+.action-btns{
+  width: 25%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.user-main-holder{
+  width: 100%;
+}
+
+.edit-btn{
+  border: 1px solid black;
+  background:  yellow;
+  border-radius: 10px;
+  padding: 10px 25px;
+  text-decoration: none;
+  color: black;
+  margin: 5px;
+  font-size: 15px;
+}
+
+.edit-btn:hover{
+  background: rgb(243, 243, 121);
+}
+
+.delete-btn{
+  border: 1px solid black;
+  background:  red;
+  border-radius: 10px;
+  padding: 5px 20px;
+  margin: 5px;
+  font-size: 15px;
+}
+
+.delete-btn:hover{
+  background: rgb(245, 119, 119);
+  cursor: pointer;
+}

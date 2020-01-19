@@ -1,0 +1,16 @@
+.info-holder{
+    width: 100%;
+    border: 2px solid black;
+    margin: 2px 0;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    background: mintcream;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profile{
+    background: rgb(170, 141, 98);
+}
