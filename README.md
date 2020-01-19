@@ -1,1 +1,1 @@
-# Register-Login-System-Accounts-App-React-Node-JS-MySql
+# Register-Login-System-Accounts-App-React-Node-JS-MySql (using jwt authentication)
